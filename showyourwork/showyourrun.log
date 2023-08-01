@@ -1,0 +1,84 @@
+"EventType","InsertText","DeleteText","SourceLocation","ClientTimestamp","CodeStateSection","ToolInstances","EditType","X-Metadata","CodeStateID","X-Compilable","EventID","SubjectID","AssignmentID"
+"Run.Program","3","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690850002652","main.py",,,,,,
+"o","3",,"push to github
+",,"stdout","1690850012770",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850022775",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850032779",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850042781",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850052779",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850062784",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850072799",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850082803",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850092814",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850102820",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850112842",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850122858",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850132863",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850142879",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850152935",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850162959",,,,,,,
+"o","3",,"push to github
+",,"stdout","1690850173005",,,,,,,
+"o","3",,"Traceback (most recent call last):
+",,"stderr","1690850179280",,,,,,,
+"o","3",,"  File ""C:\Users\Admin\Desktop\Django tutorial\schedule_task\main.py"", line 13, in <module>
+",,"stderr","1690850179280",,,,,,,
+"o","3",,"    tm.sleep(1)
+",,"stderr","1690850179280",,,,,,,
+"o","3",,"KeyboardInterrupt
+",,"stderr","1690850179280",,,,,,,
+"o","3",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1690850179288",,,,,,,
+"Run.Program","4","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690850179484","main.py",,,,,,
+"o","4",,"push to github
+",,"stdout","1690850220652",,,,,,,
+"o","4",,"Traceback (most recent call last):
+",,"stderr","1690850239806",,,,,,,
+"o","4",,"  File ""C:\Users\Admin\Desktop\Django tutorial\schedule_task\main.py"", line 13, in <module>
+",,"stderr","1690850239806",,,,,,,
+"o","4",,"    tm.sleep(1)
+",,"stderr","1690850239806",,,,,,,
+"o","4",,"KeyboardInterrupt
+",,"stderr","1690850239806",,,,,,,
+"o","4",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1690850239830",,,,,,,
+"Run.Program","5","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690850239994","main.py",,,,,,
+"o","5",,"push to github
+",,"stdout","1690850300203",,,,,,,
+"o","5",,"push to github
+",,"stdout","1690850360264",,,,,,,
+"o","5",,"push to github
+",,"stdout","1690850420343",,,,,,,
+"o","5",,"push to github
+",,"stdout","1690850480771",,,,,,,
+"o","5",,"Traceback (most recent call last):
+",,"stderr","1690850522773",,,,,,,
+"o","5",,"  File ""C:\Users\Admin\Desktop\Django tutorial\schedule_task\main.py"", line 13, in <module>
+",,"stderr","1690850522773",,,,,,,
+"o","5",,"    schedule.run_pending()
+",,"stderr","1690850522773",,,,,,,
+"o","5",,"    ^^^^^^^^^^^
+",,"stderr","1690850522773",,,,,,,
+"o","5",,"KeyboardInterrupt
+",,"stderr","1690850522773",,,,,,,
+"o","5",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1690850522797",,,,,,,
+"Run.Program","6","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690850523021","main.py",,,,,,
