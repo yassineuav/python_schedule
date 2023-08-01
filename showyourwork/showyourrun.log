@@ -82,3 +82,15 @@ Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
 Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
 ",,"system","1690850522797",,,,,,,
 "Run.Program","6","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690850523021","main.py",,,,,,
+"Run.Program","3","""C:\Users\Admin\Desktop\Django tutorial\schedule_task\venv\Scripts\python.exe"" ""C:/Users/Admin/Desktop/Django tutorial/schedule_task/main.py""",,"PythonRunner",,"1690917908123","main.py",,,,,,
+"o","3",,"Traceback (most recent call last):
+",,"stderr","1690917909229",,,,,,,
+"o","3",,"  File ""C:\Users\Admin\Desktop\Django tutorial\schedule_task\main.py"", line 5, in <module>
+",,"stderr","1690917909229",,,,,,,
+"o","3",,"    import requests
+",,"stderr","1690917909229",,,,,,,
+"o","3",,"ModuleNotFoundError: No module named 'requests'
+",,"stderr","1690917909229",,,,,,,
+"o","3",,"
+Process finished with exit code 1
+",,"system","1690917909491",,,,,,,
