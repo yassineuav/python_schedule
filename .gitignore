@@ -48,3 +48,6 @@ venv.bak/
 showyourwork
 Pipfile
 Pipfile.lock
+
+.idea
+showyourwork.log
